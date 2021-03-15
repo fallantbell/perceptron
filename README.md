@@ -15,6 +15,8 @@
 那就與目標不符  
 所以要將w減去 學習率\*A的向量   
 這樣就會不斷接近A向量  
+![image](https://github.com/fallantbell/perceptron/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-15%20204043.png)  
+經過不斷的調整 就會找到能夠完整分開兩個資料群的向量  
 
 
 ## demo  
@@ -23,3 +25,6 @@
 
 訓練結果  
 ![image](https://github.com/fallantbell/perceptron/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-15%20180344.png)  
+
+project1_origin 為直接跑出結果  
+project1_animation 則是會跑動畫  
